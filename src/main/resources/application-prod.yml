@@ -1,0 +1,7 @@
+#项目名,端口
+server:
+  servlet:
+    context-path: /ty-wechart
+  port: 80
+  tomcat:
+    uri-encoding: UTF-8
